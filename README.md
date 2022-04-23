@@ -24,4 +24,4 @@ Members:
 ## OUTPUT
 <img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-1.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-2.jpeg" width=700><br>
-<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-3.jpeg"width=700><br>
+<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-3.jpeg" width=700><br>
