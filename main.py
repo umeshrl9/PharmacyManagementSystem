@@ -100,7 +100,7 @@ def admin():
                     drug_add_data(drug_id, drug_name, drug_expiry, drug_mainuse, drug_quantity, drug_price)
                     c.execute("INSERT INTO Images (ID, Image) VALUES (%s, %s)", (drug_id, image_data,))
                     st.success("Successfully Added Data")
-                    conn.commit()
+                    conn.commit()     # Commit changes to save drug and image data to the database
 
         if choice == "View":
             st.subheader("Drug Details")
