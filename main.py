@@ -158,9 +158,8 @@ def admin():
 
     elif choice == "About":
         st.subheader("DBMS Project: Pharmacy Management System")
-        st.subheader("Umesh Kashyap (2023UCS1693)")
-        st.subheader("Yash Aggarwal (2023UCS1698)")
-        st.subheader("Divyansh Ahuja (2023UCS1677)")
+        st.subheader("Umesh Kashyap, NSUT CSE")
+        st.subheader("Yash Aggarwal, NSUT CSE")
 
 def getauthenicate(phone, password):
     c.execute('SELECT Password FROM Customers WHERE Phone = %s', (phone,))
