@@ -1,27 +1,32 @@
 # Pharmacy Management System
 
-### Mini Project for Database Management Systems (18CSC303J), (COCSC302)
+### Mini Project for Database Management Systems 
 
 Members:
-- Aditi Mittal (RA1911003010226)
-- Anweasha Saha (RA1911003010235)
-- Vijay Ravichander (RA1911003010239)
-
-Improvements and enhancements by:
 - Umesh Kashyap (2023UCS1693) NSUT CSE
 - Yash Aggarwal (2023UCS1698) NSUT CSE
 
 ## PROBLEM STATEMENT
-- In this era of growing demands of pharmaceutical and chemical products for health and medicine; every medical store, be it a small of medium sized businesses are running rampant towards efficient store management and rapid revenue computation. 
-- Instead of using the conventional style of paper-based records and documentation, electronic methods are preferred for stock maintenance, automatic updation of records while billing and reliable electronic documentation.
-- The software would reduce daily effort wage and labour numbers. Crushing numbers can now be left to the system.
+- In the era of growing demands for pharmaceutical and chemical products for health and medicine, every medical store, whether small or 
+  medium-sized, faces the challenge of efficient store management and rapid revenue computation.
+- Instead of relying on conventional paper-based records and documentation, electronic methods are increasingly preferred for:
+  1. Stock maintenance
+  2. Automatic updating of records during billing
+  3. Reliable electronic documentation
+- This software not only reduces daily manual effort and labor but also improves the operational efficiency.
 
 ## OBJECTIVE
-- The aim of this project is to develop a software for the effective management of the database of a pharmaceutical store.
-- It would improve the accuracy and enhance safety and efficiency in the pharmaceutical store.
-- This system will help the pharmacist to maintain the records of the medicines, handle user and admin details, check and renew the validity of the medicines and orders placed by the customer.
+- The primary aim of this project is to develop a software solution for the effective management of a pharmaceutical store's database. 
+  This system will:
+- Improve accuracy and enhance safety and efficiency in pharmaceutical operations.
+- Assist pharmacists in maintaining records of medicines, user, and admin details.
+- Enable pharmacists to check and renew the validity of medicines and manage orders placed by customers.
 
 ## OUTPUT
 <img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-1.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-2.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-3.jpeg" width=700><br>
+
+## CONCLUSION
+
+This Pharmacy Management System is designed to address the needs of small to medium-sized pharmaceutical businesses. By automating and digitizing store management processes, it ensures greater efficiency, accuracy, and reliability in day-to-day operations. 
